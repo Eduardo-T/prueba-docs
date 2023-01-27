@@ -28,7 +28,7 @@ twitter_username: test
 github_username:  Eduardo-T
 
 # Build settings
-remote-theme: jekyll-rtd-theme
+remote-theme: minima
 plugins:
   - jekyll-feed
   - jemoji
