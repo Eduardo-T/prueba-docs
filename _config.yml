@@ -28,7 +28,7 @@ twitter_username: test
 github_username:  Eduardo-T
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
   - jemoji
