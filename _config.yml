@@ -1,8 +1,8 @@
 lsi: false
 safe: true
-source: prueba
 incremental: false
 highlighter: rouge
+theme: minima
 gist:
   noscript: false
 kramdown:
