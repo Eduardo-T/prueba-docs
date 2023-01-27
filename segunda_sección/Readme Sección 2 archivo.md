@@ -1,4 +1,4 @@
-# Readme de Ejemplo 📝
+# Readne Sección 2 📝
 
 Este es un documento que sirve meramente para narrar y demostrar capacidades del _readme.md_
 
