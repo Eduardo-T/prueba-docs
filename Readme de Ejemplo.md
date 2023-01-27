@@ -1,5 +1,5 @@
 ---
-theme: minima
+layout: "page"
 ---
 
 # Readme de Ejemplo 📝
