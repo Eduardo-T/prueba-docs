@@ -1,34 +1,30 @@
 remote-theme: Atlas-jekyll-theme
-title: Atlas Jekyll Theme
-desciption: >
-  A jekyll theme for personal website.
-email: yourusername@gmail.com
-baseurl: "/atlas-jekyll-theme" # the subpath of your site, e.g. /blog
-#replace nrdybhu1.github.io with your domainname.com
-url: "https://nrdybhu1.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  Jekyll
-markdown: kramdown
-page_excerpts: true
-favicon: "/img/atlas.png"
-collections:
-  posts:
-    permalink: "/blog/:title:output_ext"
-    output: true
-defaults:
-- scope:
-    path: _posts
-    type: posts
-- scope:
-    path: ''
-  values:
-    image: "/img/preview.png"
-plugins:
-- jekyll-avatar
-- jekyll-feed
-- jekyll-redirect-from
-- jemoji
-- jekyll-paginate
+title: Título de la Página
+description: Este es un ejemplo de descripción
 
-paginate: 5
-paginate_path: "/blog/page-:num/"
+# debug:
+#   compress: true
+#   dist: false
+#   shortcodes: true
+
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+exclude:
+  - Makefile
+  - CNAME
+  - LICENSE
+  - update.sh
+  - Gemfile
+  - Gemfile.lock
+  - requirements.txt
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - jekyll-rtd-theme.gemspec
