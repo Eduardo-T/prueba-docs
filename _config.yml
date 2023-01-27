@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: /
+source: prueba
 incremental: false
 highlighter: rouge
 gist:
