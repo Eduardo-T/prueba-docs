@@ -4,7 +4,7 @@ Este es un documento que sirve meramente para narrar y demostrar capacidades del
 
 El _readme_ se podría definir como un documento de orientación, contextualización o documentación.
 
-Mientras que el formato _.md_ significa _Markdown Language_, que en español se traduciría a "lenguaje de reducción" o "lenguaje reducido".
+Mientras que el formato _.md_ significa _Markdown Language_, que en español se traduciría a "lenguaje de reducción" o "lenguaje reducido"..
 
 ## 1. Esto sería un subtítulo/sección ✏️
 
