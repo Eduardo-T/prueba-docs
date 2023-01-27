@@ -1,3 +1,7 @@
+---
+theme: minima
+---
+
 # Readme de Ejemplo 📝
 
 Este es un documento que sirve meramente para narrar y demostrar capacidades del _readme.md_
